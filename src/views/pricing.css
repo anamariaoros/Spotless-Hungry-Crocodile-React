@@ -1,0 +1,277 @@
+.pricing-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pricing-text001 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text002 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text006 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text007 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text013 {
+  text-align: center;
+}
+.pricing-text014 {
+  text-align: center;
+}
+.pricing-text015 {
+  text-align: center;
+}
+.pricing-text016 {
+  text-align: center;
+}
+.pricing-text020 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text026 {
+  font-size: 48px;
+}
+.pricing-text031 {
+  font-size: 48px;
+}
+.pricing-text032 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text037 {
+  font-size: 48px;
+}
+.pricing-text040 {
+  text-align: center;
+}
+.pricing-text045 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text047 {
+  font-size: 48px;
+}
+.pricing-text052 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text054 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text056 {
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text057 {
+  font-size: 48px;
+}
+.pricing-text061 {
+  text-align: center;
+}
+.pricing-text062 {
+  text-align: center;
+}
+.pricing-text067 {
+  font-size: 48px;
+}
+.pricing-text070 {
+  text-align: center;
+}
+.pricing-text079 {
+  text-align: center;
+}
+.pricing-text082 {
+  height: auto;
+  align-self: center;
+}
+.pricing-text083 {
+  text-align: center;
+}
+.pricing-text086 {
+  text-align: center;
+}
+.pricing-text087 {
+  width: auto;
+  font-size: 48px;
+  text-align: center;
+}
+.pricing-text088 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text089 {
+  font-size: 48px;
+  text-align: center;
+}
+.pricing-text090 {
+  font-size: 48px;
+  text-align: center;
+}
+.pricing-text092 {
+  height: auto;
+  align-self: center;
+}
+.pricing-text094 {
+  width: 20px;
+}
+.pricing-text097 {
+  text-align: center;
+}
+.pricing-text098 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text101 {
+  width: 20px;
+}
+.pricing-text103 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text105 {
+  height: auto;
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text106 {
+  height: auto;
+}
+.pricing-text109 {
+  height: auto;
+}
+.pricing-text110 {
+  height: auto;
+}
+.pricing-text111 {
+  height: auto;
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text112 {
+  height: auto;
+}
+.pricing-text113 {
+  height: auto;
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text114 {
+  height: auto;
+}
+.pricing-text115 {
+  height: auto;
+}
+.pricing-text117 {
+  height: auto;
+}
+.pricing-text118 {
+  height: auto;
+  font-style: normal;
+  font-weight: 600;
+}
+.pricing-text119 {
+  height: auto;
+}
+.pricing-text121 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text122 {
+  text-align: center;
+}
+.pricing-text125 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text126 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text127 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text128 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.pricing-text129 {
+  text-align: center;
+}
+.pricing-text130 {
+  text-align: center;
+}
+.pricing-text131 {
+  text-align: center;
+}
+.pricing-text143 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Roboto";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .pricing-text013 {
+    text-align: center;
+  }
+  .pricing-text014 {
+    text-align: center;
+  }
+}
+@media(max-width: 767px) {
+  .pricing-text087 {
+    font-size: 24px;
+  }
+  .pricing-text089 {
+    font-size: 24px;
+  }
+  .pricing-text090 {
+    font-size: 24px;
+  }
+  .pricing-text135 {
+    text-align: center;
+  }
+  .pricing-text149 {
+    text-align: center;
+  }
+  .pricing-text153 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .pricing-text087 {
+    font-size: 16px;
+  }
+  .pricing-text089 {
+    font-size: 16px;
+  }
+  .pricing-text090 {
+    font-size: 16px;
+  }
+}

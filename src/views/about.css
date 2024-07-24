@@ -1,0 +1,141 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.about-text05 {
+  text-align: center;
+}
+.about-text07 {
+  text-align: center;
+}
+.about-text20 {
+  text-align: center;
+}
+.about-text32 {
+  text-align: center;
+}
+.about-text33 {
+  text-align: center;
+}
+.about-text34 {
+  text-align: center;
+}
+.about-text36 {
+  text-align: center;
+}
+.about-text37 {
+  text-align: center;
+}
+.about-text38 {
+  text-align: center;
+}
+.about-text42 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text43 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text44 {
+  text-align: center;
+}
+.about-text45 {
+  text-align: center;
+}
+.about-text47 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text48 {
+  text-align: center;
+}
+.about-text49 {
+  text-align: center;
+}
+.about-text51 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text52 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text56 {
+  text-align: center;
+}
+.about-text57 {
+  text-align: center;
+}
+.about-text58 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text59 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text60 {
+  text-align: center;
+}
+.about-text61 {
+  font-style: normal;
+  font-weight: 600;
+}
+.about-text62 {
+  text-align: center;
+}
+.about-text64 {
+  text-align: center;
+}
+.about-text65 {
+  text-align: center;
+}
+.about-text74 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Roboto";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 767px) {
+  .about-text31 {
+    text-align: center;
+  }
+  .about-text66 {
+    text-align: center;
+  }
+  .about-text80 {
+    text-align: center;
+  }
+  .about-text84 {
+    text-align: center;
+  }
+}
+@media(max-width: 479px) {
+  .about-text35 {
+    text-align: center;
+  }
+  .about-text39 {
+    text-align: center;
+  }
+  .about-text46 {
+    text-align: center;
+  }
+  .about-text53 {
+    text-align: center;
+  }
+  .about-text63 {
+    text-align: center;
+  }
+}

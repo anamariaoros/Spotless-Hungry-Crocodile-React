@@ -1,0 +1,78 @@
+.contact-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.contact-text11 {
+  text-align: center;
+}
+.contact-text12 {
+  text-align: center;
+}
+.contact-text13 {
+  align-self: stretch;
+  text-align: center;
+}
+.contact-text14 {
+  text-align: center;
+}
+.contact-text15 {
+  align-self: stretch;
+  text-align: center;
+}
+.contact-text16 {
+  text-align: center;
+}
+.contact-text17 {
+  text-align: center;
+}
+.contact-text18 {
+  align-self: stretch;
+  text-align: center;
+}
+.contact-text19 {
+  text-align: center;
+}
+.contact-text20 {
+  text-align: center;
+}
+.contact-text21 {
+  align-self: stretch;
+  text-align: center;
+}
+.contact-text22 {
+  text-align: center;
+}
+.contact-text23 {
+  text-align: center;
+}
+.contact-text27 {
+  text-align: center;
+}
+.contact-text37 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  height: auto;
+  font-size: 12px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Roboto";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 767px) {
+  .contact-text29 {
+    text-align: center;
+  }
+  .contact-text43 {
+    text-align: center;
+  }
+  .contact-text47 {
+    text-align: center;
+  }
+}
